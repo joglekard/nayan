@@ -1,0 +1,32 @@
+body{
+  background-color: white;
+}
+.heading {
+  padding: 5px;
+  background-color: skyblue;
+  height: 115px;
+  text-align: center;
+  font-size: 500%;
+  color: orangered;
+}
+h5 {
+  text-align: center;
+  font-size: 40px;
+  color: green;
+  
+}
+.form {
+  text-align: justify;
+  padding-left: 40%;
+  font-size: 15px;
+}
+input {
+  height: 10px;
+  flex: 10 0 200px;
+  margin-left: 20px;
+}
+button {
+  font-size: 15px;
+  background-color: rgb(226, 245, 245);
+  color: rgba(241, 15, 15, 0.582);
+}
